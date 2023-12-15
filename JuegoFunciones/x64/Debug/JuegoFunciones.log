@@ -1,0 +1,4 @@
+﻿  JuegoPro.cpp
+H:\M16 DES\JuegoFunciones\JuegoPro.cpp(59,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+LINK : warning LNK4044: opción '/lwinmm' no reconocida; omitida
+  JuegoFunciones.vcxproj -> H:\M16 DES\JuegoFunciones\x64\Debug\JuegoFunciones.exe
