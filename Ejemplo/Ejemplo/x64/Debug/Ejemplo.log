@@ -1,0 +1,5 @@
+﻿  Ejemplo1.cpp
+D:\M4\Ejemplo\Ejemplo\Ejemplo1.cpp(6,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Enemigo.cpp
+  Generando código...
+  Ejemplo.vcxproj -> D:\M4\Ejemplo\x64\Debug\Ejemplo.exe
